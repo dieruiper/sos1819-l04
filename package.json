@@ -1,0 +1,14 @@
+{
+  "name": "l04",
+  "version": "0.0.1",
+  "description": "This is package from SOS1819 Lab L04",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "diegoruizper@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
